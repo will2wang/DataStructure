@@ -16,17 +16,12 @@ float fact1(int n)
 	for (i = 1;i <= n;i++)
 	{
 		temp = 1;
-		
-
 		for (j = 1;j <= i;j++)
 			temp = temp* j;
 			s = s + temp;
-
 		printf("i=%d\nj=%d, temp=%d, s=%d\n\n", i, j, temp,s);
 	}
 	return s;
-	//printf("%d %d %d %d %d", i, j, temp, s, n);
-	//return s;
 	system("pause");
 }
 
