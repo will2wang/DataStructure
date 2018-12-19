@@ -2,8 +2,8 @@
 //  main.c
 //  2-线性表
 //
-//  Created by Will Wang on 2018/11/26.
-//  Copyright © 2018 Will Wang. All rights reserved.
+//  Created by W W on 2018/11/26.
+//  Copyright © 2018 W W. All rights reserved.
 //
 
 #include <stdio.h>
